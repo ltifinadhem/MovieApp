@@ -1,0 +1,61 @@
+.App {
+  text-align: center;
+}
+.listMov{
+  display: flex;
+  flex-wrap: wrap;
+  margin: 2px;
+  justify-content:space-around;
+
+}
+.card{
+  margin : 0 10px;
+  margin: 5px;
+  
+  width: 400px;
+  height: 560px;
+
+}
+
+.inp{
+display: flex; 
+margin:2px;
+font-family: Georgia, 'Times New Roman', Times, serif;
+letter-spacing: 2px;
+word-spacing: 2px;
+font-weight: 400;
+text-transform: capitalize;
+}
+h1{
+  font-family: Impact, Charcoal, sans-serif;
+font-size: 70px;
+letter-spacing: 2px;
+word-spacing: 2px;
+color: #1D720E;
+font-weight: 400;
+text-decoration: none solid rgb(68, 68, 68);
+font-style: normal;
+font-variant: normal;
+text-transform: capitalize;
+}
+.title{
+  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+font-size: 20px;
+letter-spacing: 2px;
+word-spacing: 2px;
+color: #041102;
+font-weight: 400;
+text-decoration: none solid rgb(68, 68, 68);
+font-style: normal;
+font-variant: normal;
+text-transform: capitalize;
+}
+.card{
+  display : flex;
+  flex-direction : column;
+  justify-content:space-between;
+}
+.tit{
+  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+font-size: 15px;
+}
